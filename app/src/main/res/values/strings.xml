@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Admin Pegas</string>
+    <string name="tambah">Tambah</string>
+    <string name="harian">Harian</string>
+    <string name="bulanan">Bulanan</string>
+    <string name="hello_harian_fragment">Hello Harian fragment</string>
+    <string name="hello_bulanan_fragment">Hello Bulanan fragment</string>
+</resources>

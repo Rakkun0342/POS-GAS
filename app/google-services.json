@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "986773203903",
+    "firebase_url": "https://kogas-4b021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kogas-4b021",
+    "storage_bucket": "kogas-4b021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986773203903:android:a6a91b7b94249b55018f0a",
+        "android_client_info": {
+          "package_name": "com.example.adminkogas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ08fRZtNch9YXU7ZWQfBR3HNWbYAHw_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986773203903:android:b18fe4bf07dbdec2018f0a",
+        "android_client_info": {
+          "package_name": "com.example.kogas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ08fRZtNch9YXU7ZWQfBR3HNWbYAHw_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
