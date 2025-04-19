@@ -42,6 +42,7 @@ Dibuat menggunakan arsitektur **MVVM**, serta didukung oleh integrasi **Firebase
 - Firebase (Authentication & Firestore)
 - SQL Server
 - SQLite
+- Bluetooth Printer (DantSu:ESCPOS-ThermalPrinter)
 - Chart Library (AnyChart / MPAndroidChart)
 - Apache POI (Export Excel)
 - Coroutines & LiveData
